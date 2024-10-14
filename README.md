@@ -1,8 +1,7 @@
 # Diving Deep into Cyber Security 
 
-<p align="center">
-  <img src="Java_logo.png" alt="Project folder Logo" width="200" height="200">
-</p>
+<img src="encryptionImage.jpg" alt="Banner" style="width:100%;"/>
+
 
 ## ❔ Description
 
