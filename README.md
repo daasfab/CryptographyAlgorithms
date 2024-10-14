@@ -22,5 +22,4 @@ Feel free to reach out if you have any questions, or suggestions, or just want t
 
 Daulet (or just "Daas" 🌟) | GitHub: daasfab | Email: daulet.ras@gmail.com
      
-```bash
-npm install
+
