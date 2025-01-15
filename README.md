@@ -7,14 +7,9 @@
 
 Welcome! This repo will store all the algorithms used in the industry, starting from the *easier* ones such as the Caesar Cipher, and ending with *more complex* ones such as the Hashing Functions.
 
-## 📄 Table of Contents
-
-- [Installation](#installation)
-- [Contact](#contact)
-
 ## 📥 Installation
 
-To download and run my code - install all the required source codes from specific folders and compile them in text editors with the Java compiler extension downloaded.
+To download and run my code - install the required source code from the folders and compile them in a Java compatible text editor of choice.
 
 ## 📲 Contact
 
