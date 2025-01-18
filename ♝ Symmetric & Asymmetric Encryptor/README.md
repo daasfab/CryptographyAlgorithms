@@ -11,7 +11,7 @@ A better encryption type than the basic Caesar Cipher. Depending on your needs, 
 ### Symmetric Encryption:
 
 <div align="center">
-  <img src="Symmetric_Diagram.png" alt="Game Logo" style="width: 1000px; margin-bottom: -10px;">
+  <img src="Symmetric_Diagram.png" alt="Game Logo" style="width: 500px; margin-bottom: -10px;">
 </div>
 
 I'm using python to program both types of encryption. 
@@ -36,7 +36,7 @@ Here is the result:
 ### Asymmetric Encryption:
 
 <div align="center">
-  <img src="Asymmetric_Diagram.png" alt="Game Logo" style="width: 1000px; margin-bottom: -10px;">
+  <img src="Asymmetric_Diagram.png" alt="Game Logo" style="width: 500px; margin-bottom: -10px;">
 </div>
 
 ---
