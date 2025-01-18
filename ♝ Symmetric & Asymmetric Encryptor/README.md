@@ -11,24 +11,24 @@ A better encryption type than the basic Caesar Cipher. Depending on your needs, 
 ### Symmetric Encryption:
 
 <div align="center">
-  <img src="Symmetric_Diagram.png" alt="Game Logo" style="width: 100px; margin-bottom: -10px;">
+  <img src="Symmetric_Diagram.png" alt="Game Logo" style="width: 7000px; margin-bottom: -10px;">
 </div>
 
 I'm using python to program both types of encryption. 
 
 First, install the cryptography library:  
-<mark>pip install cryptography</mark>
+```pip install cryptography ```
 
 Then, import Fernet and colored libraries:  
-<mark>from cryptography.fernet import Fernet</mark>  
-<mark>from termcolor import colored</mark>
+```from cryptography.fernet import Fernet``` 
+```from termcolor import colored```
 
 Lastly, code in the key generator for the Symmetric Encryptor.
 
 Here is the result:
 
 <div align="center">
-  <img src="Symmetric_EnDe.png" alt="Game Logo" style="width: 100px; margin-bottom: -10px;">
+  <img src="Symmetric_EnDe.png" alt="Game Logo" style="width: 7000px; margin-bottom: -10px;">
 </div>
 
 ---
@@ -36,7 +36,7 @@ Here is the result:
 ### Asymmetric Encryption:
 
 <div align="center">
-  <img src="Asymmetric_Diagram.png" alt="Game Logo" style="width: 100px; margin-bottom: -10px;">
+  <img src="Asymmetric_Diagram.png" alt="Game Logo" style="width: 7000px; margin-bottom: -10px;">
 </div>
 
 ---
