@@ -13,8 +13,27 @@ Visual Representation Diagram:
 
 ## 👨🏻‍💻 Dev Process
 
-For both the private and public keys, I will need to make a completely random key generator. That will be challenging, as computers are not random and purely generate things by using pre-determined mathematical formulas. 
-I will be using this guide to make the key generator: https://learn.microsoft.com/en-us/dotnet/standard/security/generating-keys-for-encryption-and-decryption 
+### Symmetric Encryption:
+
+I'm using python to programm both types of encryption. 
+
+First, install the cryptography library:
+``` pip install cryptography ```
+
+Then, import Fernet and colored libraries:
+``` from cryptography.fernet import Fernet ```
+``` from termcolor import colored ```
+
+Lastly, code in the key generator for the Symmetrict Encryptor.
+
+Here is the result:
+
+
+<div align="center">
+  <img src="♝ Symmetric & Asymmetric Encryptor/Symmetric_EnDe.png" alt="Game Logo" style="width: 100px; margin-bottom: -10px;">
+</div>
+
+### Asymmetric Encryption:
 
 ---
 
